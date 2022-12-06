@@ -1,0 +1,4 @@
+- 👋 Hi, I’m pourya 
+- 👀 I’m a programmer and I love coding
+- 🌱 I’m currently learning react but I have learned html, css, js, python and ... 
+- 📫 message me on telegram => @better_call_p0ry
