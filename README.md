@@ -4,7 +4,7 @@
 
 
 <h2>skills : </h2>
-<div style='display:flex;justify-content:space-between;flex-wrap:wrap;gap:20px;'>
+<div style='display:flex;justify-content:space-evenly;flex-wrap:wrap;gap:120px;'>
 <img style='height:80px;' src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Devicon-html5-plain.svg/640px-Devicon-html5-plain.svg.png' />
 <img style='height:80px;' src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/640px-CSS3_logo.svg.png' />
 <img style='height:80px;' src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/640px-Bootstrap_logo.svg.png' />
