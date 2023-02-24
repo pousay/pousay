@@ -12,7 +12,7 @@
 
 <h2>Message me on : </h2> 
 <a href='https://t.me/Better_ring_fring'>
-  telegram
+  <img src="https://skillicons.dev/icons?i=telegram" />
 </a>
 <a href='https://discordapp.com/users/
 837373420764790856'>
