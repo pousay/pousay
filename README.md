@@ -18,5 +18,5 @@
 </div>
 
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js" />
-<img src="https://skillicons.dev/icons?i=react,redux,nextjs,ts,git" />
-<img src="https://skillicons.dev/icons?i=python,github" />
+<img src="https://skillicons.dev/icons?i=react,redux,nextjs,ts,py" />
+<img src="https://skillicons.dev/icons?i=git,github" />
