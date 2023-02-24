@@ -14,3 +14,10 @@
 <a href='https://t.me/Better_ring_fring'>
   telegram
 </a>
+
+
+ 
+<a href='https://discordapp.com/users/
+837373420764790856'>
+  discord
+</a>
