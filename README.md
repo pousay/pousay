@@ -18,3 +18,6 @@
 837373420764790856'>
   <img src="https://skillicons.dev/icons?i=discord" />
 </a>
+<a href='https://www.instagram.com/p0ry_85/'>
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
