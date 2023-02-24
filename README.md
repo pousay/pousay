@@ -15,3 +15,4 @@
 <img style='height:60px;' src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png' />
 <img style='height:60px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/640px-Python_logo_01.svg.png' />
 </div>
+<img src='https://skillicons.dev/icons?i=css,html,nextjs,react,python' />
