@@ -1,6 +1,6 @@
 <h1>👋 hello</h1>
 <p>I’m pourya</p>
-<p> 👀 I’m a programmer and I love coding</p>
+<p>I’m a programmer and I love coding</p>
 
 
 <h2>skills : </h2>
@@ -13,4 +13,5 @@
 <img style='height:60px;' src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png' />
 <img style='height:60px;' src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/640px-Nextjs-logo.svg.png' />
 <img style='height:60px;' src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png' />
+<img style='height:60px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/640px-Python_logo_01.svg.png' />
 </div>
