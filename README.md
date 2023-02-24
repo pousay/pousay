@@ -1,6 +1,6 @@
 <h1>hello</h1>
-- 👋 Hi, I’m pourya
-- 👀 I’m a programmer and I love coding
+<p> 👋 Hi, I’m pourya</p>
+<p> 👀 I’m a programmer and I love coding</p>
 
 
 <h2>skills : </h2>
