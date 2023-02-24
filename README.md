@@ -1,5 +1,5 @@
-<h1>hello</h1>
-<p> 👋 Hi, I’m pourya</p>
+<h1>👋 hello</h1>
+<p>I’m pourya</p>
 <p> 👀 I’m a programmer and I love coding</p>
 
 
