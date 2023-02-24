@@ -11,7 +11,7 @@
 
 
 <h2>Message me on : </h2> 
-<a style='padding-right:50px;' href='https://t.me/Better_ring_fring'>
+<a href='https://t.me/Better_ring_fring'>
   <img style='height:50px;' src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" />
 </a>
 <a href='https://discordapp.com/users/
