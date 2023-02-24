@@ -1,9 +1,9 @@
-<h1>👋 hello</h1>
+<h1>👋 Hello</h1>
 <p>I’m pourya</p>
 <p>I’m a programmer and I love coding</p>
 <br/>
 
-<h2>skills : </h2>
+<h2>Skills : </h2>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js" />
 <img src="https://skillicons.dev/icons?i=react,redux,nextjs,ts,py" />
 <img src="https://skillicons.dev/icons?i=git,github" />
