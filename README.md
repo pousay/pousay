@@ -16,3 +16,7 @@
 <img style='height:50px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/640px-Python_logo_01.svg.png' />
 <img style='height:50px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/640px-Git_icon.svg.png' />
 </div>
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js" />
+<img src="https://skillicons.dev/icons?i=react,redux,nextjs,ts,git" />
+<img src="https://skillicons.dev/icons?i=python,github" />
