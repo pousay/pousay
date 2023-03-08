@@ -7,11 +7,15 @@
 <br/>
 
 <h2>Skills : </h2>
-html css bootstrap sass js
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js" />
 <img src="https://skillicons.dev/icons?i=react,redux,nextjs,ts,py" />
 <img src="https://skillicons.dev/icons?i=git,github" />
 <br/>
+
+<ul>
+  <li>asd</li>
+  <li>ds</li>
+</ul>
 
 
 <h2>Message me on : </h2> 
