@@ -7,6 +7,7 @@
 <br/>
 
 <h2>Skills : </h2>
+html css bootstrap sass js
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js" />
 <img src="https://skillicons.dev/icons?i=react,redux,nextjs,ts,py" />
 <img src="https://skillicons.dev/icons?i=git,github" />
