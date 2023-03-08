@@ -13,8 +13,9 @@
 <br/>
 
 <ul>
-  <li>asd</li>
-  <li>ds</li>
+  <li>HTML - CSS - Bootstrap - Sass - Javascript</li>
+  <li>React - Redux - Nextjs - Typescript - Python</li>
+  <li>Git - Github</li>
 </ul>
 
 
