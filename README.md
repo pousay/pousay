@@ -9,13 +9,13 @@
 <h2>Skills : </h2>
 <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwindcss" />
 <img src="https://skillicons.dev/icons?i=js,react,redux,nextjs,ts" />
-<img src="https://skillicons.dev/icons?i=py,git,github" />
+<img src="https://skillicons.dev/icons?i=py,git,github,vscode" />
 <br/>
 
 <ul>
   <li>HTML - CSS - Sass - Bootstrap - TailwindCss </li>
   <li>JavaScript - React - Redux - Nextjs - TypeScript</li>
-  <li>Python - Git - Github</li>
+  <li>Python - Git - Github - vsCode</li>
 </ul>
 
 
