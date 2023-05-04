@@ -7,15 +7,15 @@
 <br/>
 
 <h2>Skills : </h2>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js" />
-<img src="https://skillicons.dev/icons?i=react,redux,nextjs,ts,py" />
-<img src="https://skillicons.dev/icons?i=git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwindcss" />
+<img src="https://skillicons.dev/icons?i=js,react,redux,nextjs,ts" />
+<img src="https://skillicons.dev/icons?i=py,git,github" />
 <br/>
 
 <ul>
-  <li>HTML - CSS - Bootstrap - Sass - Javascript</li>
-  <li>React - Redux - Nextjs - Typescript - Python</li>
-  <li>Git - Github</li>
+  <li>HTML - CSS - Sass - Bootstrap - TailwindCss </li>
+  <li>JavaScript - React - Redux - Nextjs - TypeScript</li>
+  <li>Python - Git - Github</li>
 </ul>
 
 
