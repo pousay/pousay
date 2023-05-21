@@ -1,7 +1,7 @@
 <h1>👋 Me : </h1>
 <h4>I’m pourya</h4 >
 <p>I’m a programmer and I love coding</p>
-<p>I have been coding more than a year and also I have done many projects that you can see some of them on github aand gh-pages</p>
+<p>I have been coding more than a year and also I have done many projects that you can see some of them on github and gh-pages</p>
 <p>currently I am working on ts(typescript) to get more professional as I can </p>
 <p>I love front-end but also I have some plans to be a full-stack developer and to learn back-end</p>
 <br/>
