@@ -1,5 +1,5 @@
 <h1>👋 Me : </h1>
-<h4>I’m pourya</h4 >
+<h2>Hi THERE, I’m Pourya  :)</h2 >
 <p>A programmer who loves coding</p>
 <p>I've been coding more than a year and also I've done many projects that you can see some of them on github or gh-pages</p>
 <p>currently I am working on ts (typescript) to get more professional as I can </p>
