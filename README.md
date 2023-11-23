@@ -6,10 +6,12 @@
 <p>I love front-end but also I have some plans to be a full-stack developer and to learn back-end</p>
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pousay&show_icons=true&locale=en&layout=compact" alt="pousay" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pousay&show_icons=true&locale=en&theme=dark&layout=compact" alt="pousay" /></p>
 <br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pousay&show_icons=true&locale=en" alt="pousay" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pousay&show_icons=true&locale=en&theme=tokyonight" alt="pousay" /></p>
 <br/>
+
+
 <h2>Skills : </h2>
 <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwindcss" />
 <img src="https://skillicons.dev/icons?i=js,react,redux,nextjs,ts" />
