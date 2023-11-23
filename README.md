@@ -26,6 +26,6 @@
 <a href='https://discordapp.com/users/837373420764790856'>
   <img align='left' style='margin-left:20px;height:40px;' src="https://skillicons.dev/icons?i=discord" />
 </a>
-<a href='https://www.instagram.com/pourya_the_g/'>
+<a href='https://www.instagram.com/p0urya.sh/'>
   <img align='left' style='margin-left:20px;height:40px;' src="https://skillicons.dev/icons?i=instagram" />
 </a>
