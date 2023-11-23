@@ -1,10 +1,20 @@
 <h1>👋 Me : </h1>
 <h2>Hi THERE, I’m Pourya  :)</h2 >
-<p>A programmer who loves coding</p>
-<p>I've been coding more than a year and also I've done many projects that you can see some of them on github or gh-pages</p>
-<p>currently I am working on ts (typescript) to get more professional as I can </p>
-<p>I love front-end but also I have some plans to be a full-stack developer and to learn back-end</p>
+
+<div style='display:flex;'> 
+
+<pre>
+  A <em>programmer</em> who loves coding...
+  I've been coding more than a year.
+  I've done many projects
+  which you can see some of them on my github.
+  currently I am working on ts (typescript)
+</pre>
+
+
+  
 <br/>
+</div>
 
 <div style='display:flex;justify-content: space-between;' >
   <img style='height:200px;'  src="https://github-readme-stats.vercel.app/api/top-langs?username=pousay&show_icons=true&locale=en&theme=dark&layout=compact" alt="pousay" />
@@ -19,6 +29,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwindcss" />
 <img src="https://skillicons.dev/icons?i=js,react,redux,nextjs,ts" />
 <img src="https://skillicons.dev/icons?i=py,git,github,vscode,linux" />
+
 <br/>
 
 <ul>
@@ -28,7 +39,7 @@
 </ul>
 
 
-<h2>Message me on : </h2> 
+<h2>Message me via : </h2> 
 <a href='https://t.me/Better_ring_fring'>
   <img align='left' style='height:40px;' src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" />
 </a>
