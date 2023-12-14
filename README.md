@@ -17,9 +17,9 @@
 </div>
 
 <div style='display:flex;justify-content: space-between;' >
-  <img style='height:140px;'  src="https://github-readme-stats.vercel.app/api/top-langs?username=pousay&show_icons=true&locale=en&theme=dark&layout=compact" alt="pousay" />
+  <img style='height:150px;'  src="https://github-readme-stats.vercel.app/api/top-langs?username=pousay&show_icons=true&locale=en&title_color=00B81C&text_color=f2f2f2&theme=dark&layout=compact" alt="pousay" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img style='height:140px;' src="https://github-readme-stats.vercel.app/api?username=pousay&show_icons=true&locale=en&theme=tokyonight" alt="pousay" />
+  <img style='height:150px;' src="https://github-readme-stats.vercel.app/api?username=pousay&number_format=long&show_icons=true&line_height=25&rank_icon=github&title_color=00B81C&text_color=f2f2f2&icon_color=00B81C&bg_color=272727" alt="pousay" />
 </div>
 <br/>
 
