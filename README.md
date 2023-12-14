@@ -1,6 +1,6 @@
 <h1>👋 Me : </h1>
 <h2>
-  <img src='./' />
+  <img src='./../assets/me3.png' />
 </h2 >
 
 <div style='display:flex;'> 
