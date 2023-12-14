@@ -1,11 +1,14 @@
 
 <h1>About Me : </h1>
+
 <img style='height:100px;' src='./../assets/me3.png' />
-<hr/><br/>
+
+<hr/>
+<br/>
+
 <img src='https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=26&duration=2000&pause=500&color=00B81C&background=1A1A1A&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=160&lines=17+Y.O;Code+enthusiast;Currently+working+on+TypeScript+%26+Python;Think%2C+Write%2C+Create+and+Celebrate++' />
 
 
-<br/><br/><br/>
 <h2>Stats : </h2>
 <div style='display:flex;justify-content: space-between;' >
   <img style='height:150px;'  src="https://github-readme-stats.vercel.app/api/top-langs?username=pousay&show_icons=true&locale=en&title_color=00B81C&text_color=f2f2f2&theme=dark&layout=compact" alt="pousay" />
