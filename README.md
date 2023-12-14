@@ -1,5 +1,7 @@
 <h1>👋 Me : </h1>
-<h2>Hi THERE, I’m Pourya  :)</h2 >
+<h2>
+  <img src='./' />
+</h2 >
 
 <div style='display:flex;'> 
 
