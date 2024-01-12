@@ -15,8 +15,8 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pousay&show_icons=true&locale=en&title_color=00B81C&text_color=f2f2f2&hide_border=true&theme=dark&layout=compact" alt="pousay" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height='170px' src='https://streak-stats.demolab.com?user=pousay&theme=transparent&hide_border=true&mode=weekly&ring=00B81C&fire=EB5454&dates=2C7FFF&currStreakNum=EB5454&sideNums=EB5454&sideLabels=008B15&currStreakLabel=00B81C'
-  />
+<!--   <img height='170px' src='https://streak-stats.demolab.com?user=pousay&theme=transparent&hide_border=true&mode=weekly&ring=00B81C&fire=EB5454&dates=2C7FFF&currStreakNum=EB5454&sideNums=EB5454&sideLabels=008B15&currStreakLabel=00B81C'
+  /> -->
 </div>
 <br/>
 
