@@ -25,6 +25,7 @@
 <h2>Skills : </h2>
 <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwindcss" />
 <img src="https://skillicons.dev/icons?i=js,react,redux,nextjs,ts" />
+<img src="https://skillicons.dev/icons?i=powershell,regex,mysql,sqlite,vite" />
 <img src="https://skillicons.dev/icons?i=py,git,github,vscode,linux" />
 
 <br/>
@@ -32,6 +33,7 @@
 <ul>
   <li>HTML - CSS - Sass - Bootstrap - TailwindCss</li>
   <li>JavaScript - React - Redux - Nextjs - TypeScript</li>
+  <li>PowerShell - Regex - MySQL - SQLite - Vite</li>
   <li>Python - Git - Github - vsCode - linux</li>
 </ul>
 
