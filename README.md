@@ -16,6 +16,7 @@ ME = {
   'last_name' : "Sharifi",
   'nationality' : "Iranian"
   'age' : 17,   # Sep, 30, 2006
+  'hobbies' : ['Movies and Series','Video Games'],
 }
 ```
 
