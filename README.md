@@ -6,7 +6,7 @@
 <hr/>
 <br/>
 
-<img src='https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=26&duration=2000&pause=200&color=00B81C&background=1A1A1A&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=160&lines=17+Y.O;Code+enthusiast;Currently+working+on+TypeScript+%26+Python;Think%2C+Write%2C+Create+and+Celebrate++' />
+<img src='https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=26&duration=2000&pause=200&color=00B81C&background=1A1A1A&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=160&lines=19+Y.O;Code+enthusiast;Currently+working+on+TypeScript+%26+Python;Think%2C+Write%2C+Create+and+Celebrate++' />
 
 
 
@@ -15,7 +15,7 @@ ME = {
   'first_name' : "Pourya",
   'last_name' : "Sharifi",
   'nationality' : "Iranian"
-  'age' : 17,   # Sep, 30, 2006
+  'age' : 19,   # Sep, 30, 2006
   'hobbies' : ['Movies and Series','Video Games'],
 }
 ```
