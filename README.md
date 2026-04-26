@@ -33,19 +33,28 @@ ME = {
 
 
 
-<h2>Skills : </h2>
-<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwindcss" />
-<img src="https://skillicons.dev/icons?i=js,react,redux,nextjs,ts" />
-<img src="https://skillicons.dev/icons?i=powershell,regex,mysql,sqlite,vite" />
-<img src="https://skillicons.dev/icons?i=py,git,github,vscode,linux" />
+<h3>Languages : </h3>
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java" />
+
+<h3>Frameworks : </h3>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,bootstrap,sass" />
+
+<h3>Databases : </h3>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+
+<h3>Tools & etc : </h3>
+<img src="https://skillicons.dev/icons?i=git,vscode,vite" />
+<img src="https://skillicons.dev/icons?i=linux,github,html,css" />
+
 
 <br/>
 
 <ul>
-  <li>HTML - CSS - Sass - Bootstrap - TailwindCss</li>
-  <li>JavaScript - React - Redux - Nextjs - TypeScript</li>
-  <li>PowerShell - Regex - MySQL - SQLite - Vite</li>
-  <li>Python - Git - Github - vsCode - linux</li>
+  <li>Python - JavaScript - TypeScript - CPP - Java</li>
+  <li>React - NextJS - TailwindCSS - Bootstrap - Sass</li>
+  <li>MySQL - SQLite</li>
+  <li>Git - VSCode - Vite</li>
+  <li>Linux - Github - HTML - CSS</li>
 </ul>
 
 
