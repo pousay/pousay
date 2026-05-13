@@ -38,6 +38,7 @@ ME = {
 
 <h3>Frameworks : </h3>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,bootstrap,sass" />
+<img src="https://skillicons.dev/icons?i=fastapi" />
 
 <h3>Databases : </h3>
 <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
@@ -52,6 +53,7 @@ ME = {
 <ul>
   <li>Python - JavaScript - TypeScript - CPP - Java</li>
   <li>React - NextJS - TailwindCSS - Bootstrap - Sass</li>
+  <li>fastapi</li>
   <li>MySQL - SQLite</li>
   <li>Git - VSCode - Vite</li>
   <li>Linux - Github - HTML - CSS</li>
