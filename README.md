@@ -15,8 +15,8 @@ ME = {
   'first_name' : "Pourya",
   'last_name' : "Sharifi",
   'nationality' : "Iranian"
-  'age' : 19,   # Sep, 30, 2006
-  'hobbies' : ['Movies and Series','Video Games'],
+  'age' : 20,   # Sep, 30, 2006
+  'hobbies' : ['Movies and Series', 'Hanging Out'],
 }
 ```
 
