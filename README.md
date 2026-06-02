@@ -26,7 +26,7 @@ ME = {
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pousay&show_icons=true&locale=en&title_color=00B81C&text_color=f2f2f2&hide_border=true&theme=dark&layout=compact" alt="pousay" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<!--   <img height='170px' src='https://streak-stats.demolab.com?user=pousay&theme=transparent&hide_border=true&mode=weekly&ring=00B81C&fire=EB5454&dates=2C7FFF&currStreakNum=EB5454&sideNums=EB5454&sideLabels=008B15&currStreakLabel=00B81C'
+  <!-- <img height='170px' src='https://streak-stats.demolab.com?user=pousay&theme=transparent&hide_border=true&mode=weekly&ring=00B81C&fire=EB5454&dates=2C7FFF&currStreakNum=EB5454&sideNums=EB5454&sideLabels=008B15&currStreakLabel=00B81C'
   /> -->
 </div>
 <br/>
@@ -44,7 +44,7 @@ ME = {
 <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 
 <h3>Tools & etc : </h3>
-<img src="https://skillicons.dev/icons?i=git,vscode,vite" />
+<img src="https://skillicons.dev/icons?i=git,vscode,vite,docker" />
 <img src="https://skillicons.dev/icons?i=linux,github,html,css" />
 
 
@@ -55,7 +55,7 @@ ME = {
   <li>React - NextJS - TailwindCSS - Bootstrap - Sass</li>
   <li>fastapi</li>
   <li>MySQL - SQLite</li>
-  <li>Git - VSCode - Vite</li>
+  <li>Git - VSCode - Vite - Docker</li>
   <li>Linux - Github - HTML - CSS</li>
 </ul>
 
