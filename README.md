@@ -42,10 +42,14 @@ Python - JavaScript - TypeScript - CPP - Java
 
 <h3>Frameworks : </h3>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,bootstrap,sass" />
+
+```md
+React - NextJS - TailwindCSS - Bootstrap - Sass
+```
 <img src="https://skillicons.dev/icons?i=fastapi" />
 
 ```md
-React - NextJS - TailwindCSS - Bootstrap - Sass - FastAPI
+FastAPI
 ```
 <h3>Databases : </h3>
 <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
@@ -59,14 +63,16 @@ React - NextJS - TailwindCSS - Bootstrap - Sass - FastAPI
 <img src="https://skillicons.dev/icons?i=git,vscode,vite,docker" />
 <img src="https://skillicons.dev/icons?i=linux,github,html,css" />
 
+```md
+Git - VSCode - Vite - Docker  
+Linux - Github - HTML - CSS 
+```
 
 <br/>
 
 
 
--
-- Git - VSCode - Vite - Docker  
-- Linux - Github - HTML - CSS 
+
 
 
 
