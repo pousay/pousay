@@ -44,6 +44,9 @@ Python - JavaScript - TypeScript - CPP - Java
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,bootstrap,sass" />
 <img src="https://skillicons.dev/icons?i=fastapi" />
 
+```md
+React - NextJS - TailwindCSS - Bootstrap - Sass - FastAPI
+```
 <h3>Databases : </h3>
 <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 
@@ -55,8 +58,7 @@ Python - JavaScript - TypeScript - CPP - Java
 <br/>
 
 
-- React - NextJS - TailwindCSS - Bootstrap - Sass 
-- fastapi
+
 - MySQL - SQLite  
 - Git - VSCode - Vite - Docker  
 - Linux - Github - HTML - CSS 
