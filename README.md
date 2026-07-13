@@ -36,6 +36,10 @@ ME = {
 <h3>Languages : </h3>
 <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java" />
 
+```md
+Python - JavaScript - TypeScript - CPP - Java
+```
+
 <h3>Frameworks : </h3>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,bootstrap,sass" />
 <img src="https://skillicons.dev/icons?i=fastapi" />
@@ -50,14 +54,13 @@ ME = {
 
 <br/>
 
-<ul>
-  <li>Python - JavaScript - TypeScript - CPP - Java</li>
-  <li>React - NextJS - TailwindCSS - Bootstrap - Sass</li>
-  <li>fastapi</li>
-  <li>MySQL - SQLite</li>
-  <li>Git - VSCode - Vite - Docker</li>
-  <li>Linux - Github - HTML - CSS</li>
-</ul>
+
+- React - NextJS - TailwindCSS - Bootstrap - Sass 
+- fastapi
+- MySQL - SQLite  
+- Git - VSCode - Vite - Docker  
+- Linux - Github - HTML - CSS 
+
 
 
 <h2>Message me via : </h2> 
