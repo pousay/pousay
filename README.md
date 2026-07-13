@@ -50,6 +50,11 @@ React - NextJS - TailwindCSS - Bootstrap - Sass - FastAPI
 <h3>Databases : </h3>
 <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 
+```md
+ MySQL - SQLite  
+```
+
+
 <h3>Tools & etc : </h3>
 <img src="https://skillicons.dev/icons?i=git,vscode,vite,docker" />
 <img src="https://skillicons.dev/icons?i=linux,github,html,css" />
@@ -59,7 +64,7 @@ React - NextJS - TailwindCSS - Bootstrap - Sass - FastAPI
 
 
 
-- MySQL - SQLite  
+-
 - Git - VSCode - Vite - Docker  
 - Linux - Github - HTML - CSS 
 
