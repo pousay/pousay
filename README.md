@@ -61,10 +61,13 @@ FastAPI
 
 <h3>Tools & etc : </h3>
 <img src="https://skillicons.dev/icons?i=git,vscode,vite,docker" />
-<img src="https://skillicons.dev/icons?i=linux,github,html,css" />
 
 ```md
 Git - VSCode - Vite - Docker  
+```
+<img src="https://skillicons.dev/icons?i=linux,github,html,css" />
+
+```md
 Linux - Github - HTML - CSS 
 ```
 
