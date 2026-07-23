@@ -16,5 +16,3 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Tehran
-          committer_name: ${{ secrets.COMMITTER_NAME }}
-          committer_email: ${{ secrets.COMMITTER_EMAIL }}
