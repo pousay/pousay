@@ -1,31 +1,25 @@
-# ME :
+## ME :
 - Pourya SHarifi
 - 20 years old Iranian
-- pourya.kioteam.ir
+- https://pourya.kioteam.ir
 
 
-<h2>Stats : </h2>
+
+## Stats
 <div align="center" >
  <img src="./github-metrics.svg" />
 </div>
 
 
 
-<h3>Tech : </h3>
-<img align="center" src="https://skillicons.dev/icons?i=python,js,ts,cpp,java,linux,github,html,css,react,nextjs,tailwindcss,bootstrap,sass,fastapi,mysql,sqlite,git,vscode,vite,docker&perline=7" />
+## Tech
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java,linux,github,html,css,react,nextjs,tailwindcss,bootstrap,sass,fastapi,mysql,sqlite,git,vscode,vite,docker&perline=7" />
+</div>
 
 
 
-
-
-
-
-
-
-
-
-
-<h2>Message me via : </h2> 
+## Text Me
 <a href='https://t.me/Better_ring_fring'>
   <img align='left' style='height:40px;' src="./../assets/tg.webp" />
 </a>
