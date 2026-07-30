@@ -1,85 +1,23 @@
+# ME :
+- Pourya SHarifi
+- 20 years old Iranian
+- pourya.kioteam.ir
 
-<h1>About Me : </h1>
-
-<img style='height:100px;' src='./../assets/me.png' />
-
-<hr/>
-<br/>
-
-```bash
-echo "My Website :"
-echo https://pourya.kioteam.ir
-```
-<img src='https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=26&duration=2000&pause=200&color=00B81C&background=1A1A1A&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=160&lines=19+Y.O;Code+enthusiast;Currently+working+on+TypeScript+%26+Python;Think%2C+Write%2C+Create+and+Celebrate++' />
-
-
-
-
-
-
-```py
-ME = {
-  'first_name' : "Pourya",
-  'last_name' : "Sharifi",
-  'nationality' : "Iranian"
-  'age' : 20,   # Sep, 30, 2006
-  'hobbies' : ['Movies and Series', 'Hanging Out'],
-}
-```
 
 <h2>Stats : </h2>
-<div style='display:flex' >
+<div align="center" >
  <img src="./github-metrics.svg" />
-  <!-- <img height="170px" src="https://github-readme-stats.vercel.app/api?username=pousay&number_format=long&show_icons=true&line_height=25&rank_icon=github&title_color=00B81C&text_color=f2f2f2&icon_color=00B81C&bg_color=272727&hide_border=true" alt="pousay" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pousay&show_icons=true&locale=en&title_color=00B81C&text_color=f2f2f2&hide_border=true&theme=dark&layout=compact" alt="pousay" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
-  <!-- <img height='170px' src='https://streak-stats.demolab.com?user=pousay&theme=transparent&hide_border=true&mode=weekly&ring=00B81C&fire=EB5454&dates=2C7FFF&currStreakNum=EB5454&sideNums=EB5454&sideLabels=008B15&currStreakLabel=00B81C'
-  /> -->
 </div>
-<br/>
 
 
 
-<h3>Languages : </h3>
-<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java" />
-
-```md
-Python - JavaScript - TypeScript - CPP - Java
-```
-
-<h3>Frameworks : </h3>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,bootstrap,sass" />
-
-```md
-React - NextJS - TailwindCSS - Bootstrap - Sass
-```
-<img src="https://skillicons.dev/icons?i=fastapi" />
-
-```md
-FastAPI
-```
-<h3>Databases : </h3>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-
-```md
- MySQL - SQLite  
-```
+<h3>Tech : </h3>
+<img align="center" src="https://skillicons.dev/icons?i=python,js,ts,cpp,java,linux,github,html,css,react,nextjs,tailwindcss,bootstrap,sass,fastapi,mysql,sqlite,git,vscode,vite,docker&perline=7" />
 
 
-<h3>Tools & etc : </h3>
-<img src="https://skillicons.dev/icons?i=git,vscode,vite,docker" />
 
-```md
-Git - VSCode - Vite - Docker  
-```
-<img src="https://skillicons.dev/icons?i=linux,github,html,css" />
 
-```md
-Linux - Github - HTML - CSS 
-```
 
-<br/>
 
 
 
