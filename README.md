@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://pourya.kioteam.ir">
-    <img src="https://img.shields.io/badge/%F0%9F%8C%90_Website-pourya.kioteam.ir-123aff?style=for-the-badge&labelColor=123aff" />
+    <img src="./../assets/web.svg" />
   </a>
 </p>
 
