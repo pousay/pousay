@@ -12,9 +12,10 @@
 
 ## ★ GitHub Stats
 
-<div align="center">
-
-<img src="./github-metrics.svg" />
+<div align="center" style="display:flex">
+  
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=pousay&&theme=github-compact&area=true)
+![metrics](./github-metrics.svg)
 
 </div>
 
