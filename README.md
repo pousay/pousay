@@ -1,4 +1,4 @@
-# ⚙️ Pourya SHarifi
+# ⚙️ Pourya Sharifi
 
 > **Developer • CE Student • AI/DS Enthusiast**
 
