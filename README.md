@@ -25,7 +25,7 @@
 
 Hey there! I'm **Pourya**.
 
-20-year-old developer from Iran.
+20-years-old developer from Iran.
 
 - 🐍 Python enjoyer
 - 🤖 Interested in **AI & Data Science**
