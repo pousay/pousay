@@ -3,7 +3,7 @@
 > **Developer • CE Student • AI/DS Enthusiast**
 
 <p align="center">
-  <a href="https://pourya.kioteam.ir">
+  <a href="https://pousay.github.io/me/">
     <img src="./../assets/web.svg" />
   </a>
 </p>
